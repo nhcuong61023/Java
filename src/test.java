@@ -18,5 +18,5 @@ class demo{
 }
 public class test {
     demo acc1 = new demo(12312, "Cuong_Pro");
-    a
+	
 }
