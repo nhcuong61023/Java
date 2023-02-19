@@ -1,3 +1,5 @@
+package Class_Person;
+
 public class Entry {
 	public static void main(String[] args) {
 		Student s = new Student("Cuong", 23, "Ba Don", 4.0);

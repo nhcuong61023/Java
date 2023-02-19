@@ -1,3 +1,5 @@
+package Class_Person;
+
 public class Student extends Person {
 	private double gpa;
 

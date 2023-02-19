@@ -1,3 +1,5 @@
+package Class_Person;
+
 public class Teacher extends Person {
 	private int salary;
 
